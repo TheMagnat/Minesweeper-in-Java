@@ -1,0 +1,11 @@
+Projet Cours de programmation Objet en Java
+Projet : Demineur
+
+makefile comprenant les commandes :
+- make (pour compiler le projet)
+- make start (pour lancer le projet)
+- make clean (pour effacer les fichier .class)
+
+Note :
+	Tout les fichier .png sont fait main (Via gimp).
+	La méthode d'utilisation des timer est inspiré de la page : http://tomasmikula.github.io/blog/2014/06/04/timers-in-javafx-and-reactfx.html
